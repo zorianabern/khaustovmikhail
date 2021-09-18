@@ -16,7 +16,7 @@
   <br />
   <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaustovmikhail" />
-    div align="up">
+   <div align="up">
  <!--
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaustovmikhail" />
 </div>
