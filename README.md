@@ -7,7 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![PYTHON](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
-![GIT](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ### ✉️ Mail me: 
 ### 🌐 Instagram: @khaustov.mikhail
 
