@@ -12,7 +12,9 @@
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaustovmikhail&show_icons=true&include_all_commits=true" /> <br />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaustovmikhail" />
- <!-- <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaustovmikhail" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khaustovmikhail&show_icons=true&include_all_commits=true" /> 
+  <br />  
+  <div align"top, right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaustovmikhail" />
+  
 </div>
