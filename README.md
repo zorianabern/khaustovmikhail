@@ -11,7 +11,7 @@
 > ***Erich Maria Remarque***
 
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=khaustovmikhail&show_icons=true&include_all_commits=true" />
   <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaustovmikhail" />
