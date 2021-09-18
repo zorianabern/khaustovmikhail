@@ -16,7 +16,7 @@
   <br />
   <div align="up">
   <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaustovmikhail&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaustovmikhail" />
  <!--
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaustovmikhail" />
 </div>
